@@ -1,1 +1,0 @@
-# CodeClause-Python-Internship-Feb2023
